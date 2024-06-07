@@ -15,12 +15,12 @@ This repository contains a Streamlit-based web application for interactive data 
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/interactive-data-visualization-dashboard.git
+    git clone https://github.com/abdu1qadeer/DataVisualizationApp.git
     ```
    
 2. **Navigate to the project directory**:
     ```bash
-    cd interactive-data-visualization-dashboard
+    cd DataVisualizationApp
     ```
 
 3. **Install the required dependencies**:
