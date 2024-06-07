@@ -51,13 +51,13 @@ This repository contains a Streamlit-based web application for interactive data 
 Here's an example of how to use the app:
 
 1. **Upload a CSV file**:
-   ![Upload CSV](screenshots/upload_csv.png)
+   ![Upload CSV](screenshots/upload_csv.PNG)
 
 2. **Select plot type and columns**:
-   ![Select Plot Type](screenshots/select_plot.png)
+   ![Select Plot Type](screenshots/select_plot.PNG)
 
 3. **Visualize the data**:
-   ![Visualize Data](screenshots/visualize_data.png)
+   ![Visualize Data](screenshots/visualize_data.PNG)
 
 ## Dependencies
 
